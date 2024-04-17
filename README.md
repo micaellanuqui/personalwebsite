@@ -1,5 +1,5 @@
 # WELCOME TO MY PORTFOLIO!
-"Hello! I'm Micaella Nuqui, a Grade 12 student with a passion for Home Economics. While I may not have professional experience yet, I'm eager to learn and grow in this field. Join me on this journey as I explore the world of Home Economics and begin my path towards personal and professional development.
+Hello! I'm Micaella Nuqui, a Grade 12 student with a passion for Home Economics. While I may not have professional experience yet, I'm eager to learn and grow in this field. Join me on this journey as I explore the world of Home Economics and begin my path towards personal and professional development.
 
 ## Skills
 **Soft Skills**
