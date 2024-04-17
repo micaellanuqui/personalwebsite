@@ -25,6 +25,6 @@
 ## Achievements
 ### Certificates of Recognition
 
-![Certificates of Recognition](/personalwebsite/recognition1.jpg)
-![Certificates of Recognition](/personalwebsite/recognition2.jpg)
+![Certificates of Recognition](/recognition1.jpg)
+![Certificates of Recognition](/recognition2.jpg)
 
