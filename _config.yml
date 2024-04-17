@@ -1,0 +1,12 @@
+title: Micaella Nuqui
+logo: /assets/myprofile.jpg
+show_downloads: true
+theme: jekyll-theme-minimal
+style: |
+  <style>
+    /* Replace ".logo" with the appropriate class or ID for your logo */
+    .logo {
+      width: 150px; 
+      height: 150px; 
+    }
+  </style>
